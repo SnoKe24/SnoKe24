@@ -11,7 +11,7 @@
 🌍 Monte Grande, Provincia de Buenos Aires, Argentina
 
  <br>
-### 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 
 #### 🔧 Lenguajes
 
