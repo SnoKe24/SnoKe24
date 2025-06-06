@@ -8,7 +8,7 @@
 
 🎓 &nbsp;Estudiante de Informatica en 7mo EEST N°1
 
-🌍 Monte Grande, Provincia de Buenos Aires, Argentina
+🌍 &nbsp;Monte Grande, Provincia de Buenos Aires, Argentina
 
 ### 🔧 Lenguajes :
 
